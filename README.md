@@ -1,1 +1,1 @@
-# BCV
+Acest studiu oferă o abordare comprehensivă și inovatoare pentru predicția riscului de boli de inimă, integrând date clinice și caracteristici fiziologice într-un model predictiv. Prin utilizarea unor tehnologii avansate, precum regresia logistică, Random Forest și Decision Tree, cercetarea demonstrează eficacitatea acestor modele în anticiparea bolilor cardiovasculare.
